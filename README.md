@@ -1,20 +1,9 @@
+Screenshots
+---------------------
+
+![logo ab084ead](https://github.com/adriiiiiix/forkify/assets/88784785/e3222772-16b8-463c-b0be-9c85d314f72f)
+
 # Forkify
-
-<br />
-<p align="center">
-    <img src="https://github.com/catherineisonline/forkify/blob/main/src/assets/img/logo.png?raw=true" width="100%" height="100%">
-  </a>
-
-  <p align="center">
-    A recipe search application made with javascript.
-    <br />
-    <br />
-    <br />
-    <a href="https://forkify-recipe-api.vercel.app/">View Demo</a>
-  </p>
-</p>
-
-## About The Project
 
 Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data. The user can search for a specific recipe, and save to a favorites list via local storage. The user can easily increase or decrease servings as per his need and can view detailed directions.
 
@@ -52,7 +41,7 @@ Start with the latest version of NPM to avoid any errors:
 1. Get a free API Key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
 2. Clone the repo
    ```sh
-   git clone https://github.com/catherineisonline/forkify
+   git clone https://github.com/adriiiiiix/forkify
    ```
 3. Install NPM packages
    ```sh
@@ -75,12 +64,6 @@ Start with the latest version of NPM to avoid any errors:
 
 _For more examples, please refer to the [Documentation](https://forkify-api.herokuapp.com/v2)_
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/catherineisonline/forkify/issues) for a list of proposed features (and known issues).
-
 ### Proposed features
 
 1. Number of pages between the pagination buttons.
@@ -99,7 +82,3 @@ See the [open issues](https://github.com/catherineisonline/forkify/issues) for a
 
 7. Nutrition data on each ingredient from spoonacular API (https://
    spoonacular.com/food-api) and calculate total calories of recipe.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
